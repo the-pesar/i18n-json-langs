@@ -1,0 +1,17 @@
+{
+  "status_codes": {
+    "100": "Server is waiting for the remaining requests",
+    "101": "Server is changing the protocol",
+    "102": "Server is processing",
+    "200": "Processing with success completed",
+    "201": "Processing with success completed and new resource created",
+    "202": "Request accepted but not yet processed",
+    "203": "Processing with success completed but content may be Non-Authoritative",
+    "204": "Processing with success completed but no content to display",
+    "205": "Processing with success completed but no content to display, with change",
+    "206": "Server is processing partially",
+    "300": "Multiple Content Submitted",
+    "301": "Request redirected to another page",
+    "302": "Request temporarily redirected to another page"
+  }
+}
