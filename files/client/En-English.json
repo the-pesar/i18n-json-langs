@@ -1,5 +1,5 @@
 {
-  "status_codes": {
+  "status_code": {
     "100": "Server is waiting for the remaining requests",
     "101": "Server is changing the protocol",
     "102": "Server is processing",
@@ -13,5 +13,12 @@
     "300": "Multiple Content Submitted",
     "301": "Request redirected to another page",
     "302": "Request temporarily redirected to another page"
+  },
+  "button": {
+    "open": "open",
+    "close": "close",
+    "add": "add",
+    "send": "send",
+    "share": "share"
   }
 }
